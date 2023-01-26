@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3\WindowsFormsApp3.csproj", "{B892F0E7-C1F6-468A-86B4-0E21BE5ED6C0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Halı Saha Randevu Sistemii", "Halı Saha Randevu Sistemii\Halı Saha Randevu Sistemii.vdproj", "{89967D10-2DF8-4124-BC15-BFA1DB78054B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B892F0E7-C1F6-468A-86B4-0E21BE5ED6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B892F0E7-C1F6-468A-86B4-0E21BE5ED6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B892F0E7-C1F6-468A-86B4-0E21BE5ED6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B892F0E7-C1F6-468A-86B4-0E21BE5ED6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89967D10-2DF8-4124-BC15-BFA1DB78054B}.Debug|Any CPU.ActiveCfg = Debug
+		{89967D10-2DF8-4124-BC15-BFA1DB78054B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8C7DC7C-B0F7-4D1D-947D-ABB70D751328}
+	EndGlobalSection
+EndGlobal
