@@ -1,0 +1,4 @@
+Bu otomasyon projesinde postgresql (versiyon 15) kullanılmıştır. 
+"otomasyon.sql" adlı dosya pgadmin4 uygulaması ile "postgres" adlı default veritabanına eklenmelidir(restore işlemi) 
+"sqlbaglanti" adlı metin dosyasındaki şifre vb. değerleri kullanılacak cihazın veritabanına göre değiştirilmelidir.
+"sqlbaglanti" adlı metin dosyası C diskine kopyalanmalıdır
